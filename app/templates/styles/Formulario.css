@@ -1,0 +1,49 @@
+
+
+.navbar-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+}
+
+.card {
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+    color: #004085;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.material-symbols-outlined {
+    font-size: 50px;
+    color: #007bff;
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+}
+
+
+
